@@ -19,3 +19,4 @@ node_modules/
 
 # Arquivos sensíveis
 .env
+chave-api.txt
