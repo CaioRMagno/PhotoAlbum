@@ -1,0 +1,21 @@
+# Diretórios e arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Configurações locais do sistema
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de build
+dist/
+build/
+node_modules/
+
+# Arquivos sensíveis
+.env
